@@ -1,3 +1,3 @@
-# adityazodpe.github.io
+# simransurani.github.io
 
-Developed by https://namanjainv.github.io
+Developed by https://adityazodpe.github.io
